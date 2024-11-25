@@ -38,7 +38,7 @@ cd SteamGamesReviews
 code .
 ```
 
-Baixe os arquivos de dados do [Dataset do Kaggle](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam), e dentro do repositório, na pasta `data`, traga os arquivos **CSV** para dentro dessa pasta, ficando ao final com esses arquivos:
+Baixe os arquivos de dados do [Dataset do Kaggle](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam), e dentro do repositório, crie uma pasta chamada `data`, traga os arquivos **CSV** do dataset para dentro dessa pasta, ficando ao final com esses arquivos dentro de `data`:
 
 ```bash
 games.csv
